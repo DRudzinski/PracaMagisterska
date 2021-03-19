@@ -1,0 +1,11 @@
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\bin\Debug\netcoreapp2.1\TPL_Test.deps.json
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\bin\Debug\netcoreapp2.1\TPL_Test.runtimeconfig.json
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\bin\Debug\netcoreapp2.1\TPL_Test.runtimeconfig.dev.json
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\bin\Debug\netcoreapp2.1\TPL_Test.dll
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\bin\Debug\netcoreapp2.1\TPL_Test.pdb
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\obj\Debug\netcoreapp2.1\TPL_Test.csprojAssemblyReference.cache
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\obj\Debug\netcoreapp2.1\TPL_Test.csproj.CoreCompileInputs.cache
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\obj\Debug\netcoreapp2.1\TPL_Test.AssemblyInfoInputs.cache
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\obj\Debug\netcoreapp2.1\TPL_Test.AssemblyInfo.cs
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\obj\Debug\netcoreapp2.1\TPL_Test.dll
+C:\Users\maja\source\repos\TPL_Test\TPL_Test\obj\Debug\netcoreapp2.1\TPL_Test.pdb
